@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #fe6a6a, #cf3c27);
+  background: linear-gradient(135deg, #52b1ff, #cf3c27);
 } */
 
 .signup-container{
@@ -35,7 +35,7 @@
   height: 3px;
   width: 30px;
   border-radius: 5px;
-  background: linear-gradient(135deg, #fe6a6a, #cf3c27);
+  background: linear-gradient(135deg, #52b1ff, #cf3c27);
 }
 .content form .user-details{
   display: flex;
@@ -115,11 +115,11 @@ form .input-box span.details{
    letter-spacing: 1px;
    cursor: pointer;
    transition: all 0.3s ease;
-   background: linear-gradient(135deg, #fe6a6a, #cf3c27);
+   background: linear-gradient(135deg, #75c1ff, #0077ff);
  }
  form .button input:hover{
   transform: scale(0.99);
-  background: linear-gradient(-135deg, #fe6a6a, #cf3c27);
+  background: linear-gradient(-135deg, #75c1ff, #0077ff);
   }
  @media(max-width: 584px){
  .container{

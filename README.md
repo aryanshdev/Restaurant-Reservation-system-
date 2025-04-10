@@ -1,5 +1,5 @@
 ![alt text](https://github.com/prakash02dec/Restaurant-Reservation-system-/blob/main/Screenshot%20(171).png)
-# ResDine
+# Bestraunt
 ---
 ### [Report-Link](https://github.com/prakash02dec/Restaurant-Reservation-system-/blob/main/REPORT.pdf) 
 ### Deployment-Link

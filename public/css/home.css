@@ -135,11 +135,11 @@ a {
 }
 
 ._active {
-  color: #f55253 !important;
+  color: #2196f3 !important;
 }
 
 .restaurant_list_link:hover {
-  color: #f55253 !important;
+  color: #2196f3 !important;
 }
 
 .profile-pic{
@@ -160,7 +160,7 @@ a {
 }
 
 .profile-name:hover{
-  color: #fe6a6a;
+  color: #52b1ff;
 }
 /*-----------------------
     Navbar Ends
@@ -253,7 +253,7 @@ a {
   font-size: 18px;
   line-height: 24px;
   letter-spacing: 0.01em;
-  color: #f54748;
+  color: #52b1ff;
   margin: 0 0 8px 0;
 }
 
@@ -280,7 +280,7 @@ a {
   position: absolute;
   width: 90%;
   height: 100%;
-  background: #fe6a6a;
+  background: #52b1ff;
   border-radius: 12px;
   left: 28px;
   z-index: 0;
@@ -324,7 +324,7 @@ a {
     width: auto;
     height: 60px;
     text-align: center;
-    color: #fe6a6a;
+    color: #52b1ff;
 }
 
 .service_content_txt {
@@ -521,7 +521,7 @@ a {
 --------------------------------*/
 
 footer {
-  background-color: #f55253 ;
+  background-color: #2196f3 ;
   color: #f8f8f8;
   font-family: "Poppins", sans-serif;
   text-align: center;
@@ -543,8 +543,8 @@ footer {
   /* Colors */
   /* Background */
   --bg: #fff;
-  --bg2: #fef5f5;
-  --bg3: #f86061;
+  --bg2: #e6f4ff;
+  --bg3: #2196f3;
   /* Background */
   /* Border */
   --border-color: #eedcdc !important;

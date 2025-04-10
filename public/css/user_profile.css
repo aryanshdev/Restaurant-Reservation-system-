@@ -4,17 +4,17 @@
 }
 
 #user-greeting {
-  color: #f55253;
+  color: #2196f3;
   padding-bottom: 5%;
 }
 
 .user-profile-form-detail {
-    color: #f55253;
+    color: #2196f3;
     padding: 10px 0;
 }
 
 #photo-upload {
-  color: #f55253;
+  color: #2196f3;
   padding: 10px 0;
 }
 
@@ -25,13 +25,13 @@ input[type=file]::file-selector-button {
   padding: .2em .4em;
   border-radius: .2em;
   border: none;
-  background-color: #f55253;
+  background-color: #2196f3;
   color: #fff;
   font-family: "Poppins", sans-serif;
   transition: 1s;
 }
 .restaurant-booking-name{
-  color: #f55253;
+  color: #2196f3;
   padding: 10px 0;
 }
 
@@ -102,7 +102,7 @@ input[type=file]::file-selector-button {
 }
 
 .nav-link {
-  color: #f55253;
+  color: #2196f3;
   font-size: 20px;
 }
 
@@ -154,7 +154,7 @@ input[type=file]::file-selector-button {
   font-size: 18px;
   line-height: 24px;
   letter-spacing: 0.01em;
-  color: #f54748;
+  color: #52b1ff;
   margin: 0 0 8px 0;
 }
 
@@ -181,7 +181,7 @@ input[type=file]::file-selector-button {
   position: absolute;
   width: 90%;
   height: 100%;
-  background: #fe6a6a;
+  background: #52b1ff;
   border-radius: 12px;
   left: 28px;
   z-index: 0;
@@ -224,7 +224,7 @@ input[type=file]::file-selector-button {
   width: auto;
   height: 60px;
   text-align: center;
-  color: #fe6a6a;
+  color: #52b1ff;
 }
 
 .profile_options_content_txt {
@@ -253,15 +253,15 @@ input[type=file]::file-selector-button {
 }
 
 .profile-btn {
-  border-color: #f55253;
-  background-color: #f55253;
+  border-color: #2196f3;
+  background-color: #2196f3;
   color: white;
 }
 
 .profile-btn:hover {
-  border-color: #f55253;
+  border-color: #2196f3;
   background-color: white;
-  color: #f55253;
+  color: #2196f3;
 }
 
 @media only screen and (max-width: 992px) {

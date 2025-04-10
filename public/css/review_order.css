@@ -21,7 +21,7 @@ Details and offer container CSS
 
 .section-header{
   /* background-color: #FEF9EF; */
-  background-color: #f55253 !important;
+  background-color: #2196f3 !important;
   padding:15px 10px;
   color:#fff;
   border-top-left-radius: 5px;
@@ -80,7 +80,7 @@ Selected Date,time
 Book button
 ----------- */
 .button-submit{
-  background-color: #f55253 !important;;
+  background-color: #2196f3 !important;;
   color: white;
   padding: 20px 0;
   border-radius: 6px;
@@ -98,7 +98,7 @@ Book button
 }
 .dining-information{
   font-size: 20px;
-  color:#f55253;
+  color:#2196f3;
 }
 .para{
   font-family: "Poppins", sans-serif;

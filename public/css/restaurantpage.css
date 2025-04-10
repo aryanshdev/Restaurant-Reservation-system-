@@ -69,15 +69,15 @@ padding:1% 10px 5%;
 }
 
 #about-tab {
-  color: #f55253;
+  color: #2196f3;
 }
 
 #menu-tab {
-  color: #f55253;
+  color: #2196f3;
 }
 
 #images-tab {
-  color: #f55253;
+  color: #2196f3;
 }
 
 .book-a-table {
@@ -112,14 +112,14 @@ padding:1% 10px 5%;
 .book-table-button{
   margin: 5% 10% 5% 14%;
   max-width: 75%;
-  background-color:#f55253;
-  border-color: #f55253;
+  background-color:#2196f3;
+  border-color: #2196f3;
 }
 
 .book-table-button:hover{
   background-color: #fff;
-  color: #f55253;
-  border-color: #f55253;
+  color: #2196f3;
+  border-color: #2196f3;
 }
 
 .carousel-image {
